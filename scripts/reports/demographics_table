@@ -1,0 +1,22 @@
+library(rtables)
+library(tern)
+
+generate_dm_table <- function(adsl){
+  # 1. Describe the table layout (pre-data — no numbers yet)
+  lyt <- basic_table(
+      title    = "Table 14-1.01",
+      subtitles = "Demographic and Baseline Characteristics (Safety Population)"
+    ) %>%
+    split_cols_by("TRT01P") %>%                       # one column per arm
+    add_overall_col("All Patients") %>%               # the Total column
+    add_colcounts() %>%                               # the (N=xx) header row
+    analyze_vars(
+      vars       = c("AGE", "AGEGR1", "SEX", "RACE"),
+      var_labels = c("Age (years)", "Age group", "Sex", "Race"),
+      .stats     = c("n", "mean_sd", "median", "range", "count_fraction"),
+      .formats   = c(mean_sd = "xx.x (xx.x)", median = "xx.x", range = "xx.x - xx.x")
+    )
+
+  # 2. Apply the layout to the data to produce the table
+  return(build_table(lyt, df = adsl))
+}

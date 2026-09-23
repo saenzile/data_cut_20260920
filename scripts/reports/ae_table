@@ -1,0 +1,39 @@
+library(dplyr, warn.conflicts = FALSE)
+library(pharmaverseadam)
+
+arm_levels <- c("Placebo", "Xanomeline Low Dose", "Xanomeline High Dose")
+
+# ADSL — one row per subject; the safety population is the denominator source
+adsl <- pharmaverseadam::adsl %>%
+  filter(SAFFL == "Y") %>%
+  mutate(TRT01A = factor(TRT01A, levels = arm_levels))
+
+# ADAE — one row per AE record; keep the treatment-emergent events for the safety population
+adae <- pharmaverseadam::adae %>%
+  filter(TRTEMFL == "Y", SAFFL == "Y") %>%
+  mutate(TRT01A = factor(TRT01A, levels = arm_levels))
+
+adae_common <- adae %>%
+  filter(AEDECOD %in% pt_keep) %>%
+  mutate(AEBODSYS = as.factor(AEBODSYS), AEDECOD = as.factor(AEDECOD))
+
+basic_table(
+    title    = "Table 14-3.01",
+    subtitles = "Treatment-Emergent Adverse Events in >=5% of Any Arm (Safety Population)"
+  ) %>%
+  split_cols_by("TRT01A") %>%
+  add_overall_col("All Patients") %>%
+  add_colcounts() %>%
+  split_rows_by(
+    "AEBODSYS", child_labels = "visible", nested = FALSE,
+    indent_mod = -1L, split_fun = drop_split_levels
+  ) %>%
+  summarize_num_patients(
+    var = "USUBJID", .stats = "unique",
+    .labels = c(unique = "Patients with at least one AE in this class")
+  ) %>%
+  count_occurrences(vars = "AEDECOD") %>%
+  build_table(df = adae_common, alt_counts_df = adsl) %>%
+  prune_table() %>%
+  sort_at_path(path = "AEBODSYS", scorefun = cont_n_allcols) %>%
+  sort_at_path(path = c("AEBODSYS", "*", "AEDECOD"), scorefun = score_occurrences)

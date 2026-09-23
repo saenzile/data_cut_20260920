@@ -1,0 +1,15 @@
+"group1","variable","variable_level","context","stat_name","stat"
+"Placebo","CRIT1","ALT or AST >= 3xULN AND BILI >= 2xULN","criterion","n_subjects",1
+"Placebo","CRIT1","ALT or AST >= 3xULN AND BILI >= 2xULN","criterion","pct_subjects",1.16279069767442
+"Zanomaline Low Dose (54 mg)","CRIT1","ALT or AST >= 3xULN AND BILI >= 2xULN","criterion","n_subjects",0
+"Zanomaline Low Dose (54 mg)","CRIT1","ALT or AST >= 3xULN AND BILI >= 2xULN","criterion","pct_subjects",
+"Zanomaline High Dose (81 mg)","CRIT1","ALT or AST >= 3xULN AND BILI >= 2xULN","criterion","n_subjects",0
+"Zanomaline High Dose (81 mg)","CRIT1","ALT or AST >= 3xULN AND BILI >= 2xULN","criterion","pct_subjects",
+"Placebo","XULN|ALT","ALT","criterion","max_xuln",3.875
+"Placebo","XULN|ALT","ALT","criterion","n_subjects_ge_3x",2
+"Placebo","XULN|AST","AST","criterion","max_xuln",4.94117647058824
+"Placebo","XULN|AST","AST","criterion","n_subjects_ge_3x",2
+"Placebo","XULN|BILI","BILI","criterion","max_xuln",5.53714285714286
+"Placebo","XULN|BILI","BILI","criterion","n_subjects_ge_3x",1
+"Placebo","XULN|ALP","ALP","criterion","max_xuln",5.96521739130435
+"Placebo","XULN|ALP","ALP","criterion","n_subjects_ge_3x",2

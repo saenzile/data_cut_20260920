@@ -1,0 +1,1405 @@
+"group1","variable","variable_level","context","stat_name","stat"
+"Placebo","OVERALL","Any event","incidence","n_subjects",77
+"Placebo","OVERALL","Any event","incidence","pct_subjects",89.5348837209302
+"Placebo","OVERALL","Any event","incidence","n_events",2860
+"Zanomaline Low Dose (54 mg)","OVERALL","Any event","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","OVERALL","Any event","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","OVERALL","Any event","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","OVERALL","Any event","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","OVERALL","Any event","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","OVERALL","Any event","incidence","n_events",0
+"Placebo","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","n_subjects",77
+"Placebo","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","pct_subjects",89.5348837209302
+"Placebo","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","n_events",2860
+"Zanomaline Low Dose (54 mg)","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","(uncoded - no WHO-DD therapeutic class in source)","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","n_events",20
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ACETAMINOPHEN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","n_events",9
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADALAT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","n_events",15
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ADVIL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","n_events",20
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AEROBID","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALBUTEROL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALEVE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALLEGRA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALPHAGAN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ALTACE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMOXICILLIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AMPICILLIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ANTIHISTAMINES FOR SYSTEMIC USE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ARICEPT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","n_events",39
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","n_subjects",21
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","pct_subjects",24.4186046511628
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","n_events",234
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ASPIRIN (E.C.)","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","n_subjects",4
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","n_events",22
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATIVAN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ATROVENT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AUGMENTIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","n_events",11
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","AXID","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","B COMPLEX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BACTRIM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENADRYL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BENZALKONIUM CHLORIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETACAROTENE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BETAGAN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","BROMATANE DX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","n_subjects",7
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","pct_subjects",8.13953488372093
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","n_events",82
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","n_events",23
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CALCIUM CARBONATE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CARDURA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEFACLOR","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRAL-VITE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","n_events",18
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CENTRUM SILVER","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CEPHALOSPORIN C","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CIPRO","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CLARITIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","COLESTID","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORICIDIN D","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","n_subjects",4
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","n_events",15
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","CORTISONE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DALMANE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DESONIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DHEA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DILTIAZEM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPHENHYDRAMINE HYDROCHLORIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DIPROLENE CREAM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DOXYCYCLINE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","DROPERIDOL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","n_events",16
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ECOTRIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ERYTHROMYCIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","n_events",11
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTRADIOL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ESTROGEN NOS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","EUCERIN CREME","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","FELDENE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GARLIC","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINKGO BILOBA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GINSENG","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLUCOPHAGE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","n_events",6
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GLYBURIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUAIFENESIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","GUIATUSS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","n_events",17
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HERBAL PREPARATION","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HOMEOPATIC PREPARATION","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCHLOROTHIAZIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE VALERATE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","n_subjects",5
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","pct_subjects",5.81395348837209
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","n_events",32
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYDROCORTISONE, TOPICAL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","HYGROTON","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","n_subjects",6
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","pct_subjects",6.97674418604651
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","n_events",60
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IBUPROFEN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ICY HOT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMITREX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","n_events",9
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","IMODIUM A-D","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KAOPECTATE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","KEFLEX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LAC-HYDRIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LANSOPRAZOLE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","n_events",14
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LASIX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXINE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LEVOXYL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","n_events",20
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LORAZEPAM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","LUPRON","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","n_events",14
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAALOX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MAVIK","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","n_events",11
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEDROXYPROGESTERONE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","n_events",27
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METAMUCIL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METROGEL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","METRONIDAZOLE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MEVACOR","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MILK OF MAGNESIA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","n_events",27
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MONOPRIL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","n_subjects",4
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","n_events",30
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MOTRIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVIT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","n_subjects",15
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","pct_subjects",17.4418604651163
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","n_events",170
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","n_subjects",6
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","pct_subjects",6.97674418604651
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","n_events",83
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MULTIVITAMINS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","n_events",20
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","MYLANTA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NEOSPORIN /USA/","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NIACIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","n_subjects",8
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","pct_subjects",9.30232558139535
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","n_events",84
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","NORVASC","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","n_events",34
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","OCUVITE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PAPAYA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PERDIEM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENAZOPYRIDINE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PHENERGAN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","n_events",11
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOCARPINE HYDROCHLORIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PILOSTAT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PNEUMOVAX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","n_events",24
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","POTASSIUM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREDNISONE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","n_subjects",6
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","pct_subjects",6.97674418604651
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","n_events",60
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMARIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","n_events",9
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PREMPRO","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRENATAL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","n_subjects",4
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","n_events",34
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRILOSEC","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PRINIVIL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROMETHAZINE HCL W/CODEINE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","n_events",18
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPINE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROPULSID","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","n_subjects",4
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","n_events",38
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PROVERA","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSEUDO-CHLOR","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","PSORCON","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","QUININE SULFATE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","n_events",25
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RELAFEN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","RIOPAN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ROBITUSSIN-DM","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SINEMET","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SUDAFED","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFACETAMIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SULFAMETHOXAZOLE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","n_subjects",5
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","pct_subjects",5.81395348837209
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","n_events",59
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","SYNTHROID","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TERAZOL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","THERAGRAN-M","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","n_events",35
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TIMOPTIC","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIAMCINOLONE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRIMOX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TRUSOPT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TUMS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","n_subjects",8
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","pct_subjects",9.30232558139535
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","n_events",79
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","n_events",10
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","TYLENOL SINUS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","n_events",20
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VENTOLIN","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","n_subjects",6
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","pct_subjects",6.97674418604651
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","n_events",58
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN B12","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","n_subjects",9
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","pct_subjects",10.4651162790698
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","n_events",97
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN C","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","n_events",13
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN D","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","n_subjects",21
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","pct_subjects",24.4186046511628
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","n_events",216
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMIN E","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","n_events",24
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","VITAMINS","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","WESTCORT","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","XANAX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZESTRIL","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","n_subjects",2
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","n_events",25
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","n_events",6
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZINC OXIDE","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZITHROMAX","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","n_subjects",3
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","n_events",39
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOCOR","incidence","n_events",0
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","n_subjects",1
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|(uncoded - no WHO-DD therapeutic class in source)","ZOLOFT","incidence","n_events",0

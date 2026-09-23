@@ -1,0 +1,97 @@
+"group1","variable","variable_level","context","stat_name","stat"
+"Placebo","AVAL","DIABPST | Baseline","descriptive","N",86
+"Placebo","AVAL","DIABPST | Baseline","descriptive","mean",77.9651162790698
+"Placebo","AVAL","DIABPST | Baseline","descriptive","sd",10.6156905784272
+"Placebo","AVAL","DIABPST | Baseline","descriptive","median",78.5
+"Placebo","AVAL","DIABPST | Baseline","descriptive","min",51
+"Placebo","AVAL","DIABPST | Baseline","descriptive","max",104
+"Placebo","AVAL","DIABPSU | Baseline","descriptive","N",86
+"Placebo","AVAL","DIABPSU | Baseline","descriptive","mean",75.6627906976744
+"Placebo","AVAL","DIABPSU | Baseline","descriptive","sd",11.0268234080956
+"Placebo","AVAL","DIABPSU | Baseline","descriptive","median",76
+"Placebo","AVAL","DIABPSU | Baseline","descriptive","min",40
+"Placebo","AVAL","DIABPSU | Baseline","descriptive","max",99
+"Placebo","AVAL","PULSEST | Baseline","descriptive","N",86
+"Placebo","AVAL","PULSEST | Baseline","descriptive","mean",75.3139534883721
+"Placebo","AVAL","PULSEST | Baseline","descriptive","sd",12.7613954869474
+"Placebo","AVAL","PULSEST | Baseline","descriptive","median",76
+"Placebo","AVAL","PULSEST | Baseline","descriptive","min",56
+"Placebo","AVAL","PULSEST | Baseline","descriptive","max",133
+"Placebo","AVAL","PULSESU | Baseline","descriptive","N",86
+"Placebo","AVAL","PULSESU | Baseline","descriptive","mean",70.3255813953488
+"Placebo","AVAL","PULSESU | Baseline","descriptive","sd",10.4571302558309
+"Placebo","AVAL","PULSESU | Baseline","descriptive","median",70
+"Placebo","AVAL","PULSESU | Baseline","descriptive","min",51
+"Placebo","AVAL","PULSESU | Baseline","descriptive","max",100
+"Placebo","AVAL","SYSBPST | Baseline","descriptive","N",86
+"Placebo","AVAL","SYSBPST | Baseline","descriptive","mean",135.511627906977
+"Placebo","AVAL","SYSBPST | Baseline","descriptive","sd",17.8883755787985
+"Placebo","AVAL","SYSBPST | Baseline","descriptive","median",134
+"Placebo","AVAL","SYSBPST | Baseline","descriptive","min",90
+"Placebo","AVAL","SYSBPST | Baseline","descriptive","max",180
+"Placebo","AVAL","SYSBPSU | Baseline","descriptive","N",86
+"Placebo","AVAL","SYSBPSU | Baseline","descriptive","mean",138.674418604651
+"Placebo","AVAL","SYSBPSU | Baseline","descriptive","sd",16.6588198582543
+"Placebo","AVAL","SYSBPSU | Baseline","descriptive","median",140
+"Placebo","AVAL","SYSBPSU | Baseline","descriptive","min",90
+"Placebo","AVAL","SYSBPSU | Baseline","descriptive","max",180
+"Placebo","AVAL","TEMP | Baseline","descriptive","N",86
+"Placebo","AVAL","TEMP | Baseline","descriptive","mean",36.5894186046512
+"Placebo","AVAL","TEMP | Baseline","descriptive","sd",0.393525108403406
+"Placebo","AVAL","TEMP | Baseline","descriptive","median",36.67
+"Placebo","AVAL","TEMP | Baseline","descriptive","min",35.33
+"Placebo","AVAL","TEMP | Baseline","descriptive","max",37.17
+"Placebo","AVAL","WEIGHT | Baseline","descriptive","N",86
+"Placebo","AVAL","WEIGHT | Baseline","descriptive","mean",62.7574418604651
+"Placebo","AVAL","WEIGHT | Baseline","descriptive","sd",12.7703880070075
+"Placebo","AVAL","WEIGHT | Baseline","descriptive","median",60.56
+"Placebo","AVAL","WEIGHT | Baseline","descriptive","min",34.02
+"Placebo","AVAL","WEIGHT | Baseline","descriptive","max",86.18
+"Placebo","AVAL","DIABPST | Week 24","descriptive","N",84
+"Placebo","AVAL","DIABPST | Week 24","descriptive","mean",74.7738095238095
+"Placebo","AVAL","DIABPST | Week 24","descriptive","sd",12.1261950751019
+"Placebo","AVAL","DIABPST | Week 24","descriptive","median",76
+"Placebo","AVAL","DIABPST | Week 24","descriptive","min",45
+"Placebo","AVAL","DIABPST | Week 24","descriptive","max",117
+"Placebo","AVAL","DIABPSU | Week 24","descriptive","N",84
+"Placebo","AVAL","DIABPSU | Week 24","descriptive","mean",74.4166666666667
+"Placebo","AVAL","DIABPSU | Week 24","descriptive","sd",10.9326617239114
+"Placebo","AVAL","DIABPSU | Week 24","descriptive","median",76
+"Placebo","AVAL","DIABPSU | Week 24","descriptive","min",44
+"Placebo","AVAL","DIABPSU | Week 24","descriptive","max",109
+"Placebo","AVAL","PULSEST | Week 24","descriptive","N",84
+"Placebo","AVAL","PULSEST | Week 24","descriptive","mean",73.9523809523809
+"Placebo","AVAL","PULSEST | Week 24","descriptive","sd",8.91851298035932
+"Placebo","AVAL","PULSEST | Week 24","descriptive","median",74.5
+"Placebo","AVAL","PULSEST | Week 24","descriptive","min",52
+"Placebo","AVAL","PULSEST | Week 24","descriptive","max",96
+"Placebo","AVAL","PULSESU | Week 24","descriptive","N",84
+"Placebo","AVAL","PULSESU | Week 24","descriptive","mean",69.3095238095238
+"Placebo","AVAL","PULSESU | Week 24","descriptive","sd",9.65548248091132
+"Placebo","AVAL","PULSESU | Week 24","descriptive","median",70
+"Placebo","AVAL","PULSESU | Week 24","descriptive","min",50
+"Placebo","AVAL","PULSESU | Week 24","descriptive","max",92
+"Placebo","AVAL","SYSBPST | Week 24","descriptive","N",84
+"Placebo","AVAL","SYSBPST | Week 24","descriptive","mean",133.47619047619
+"Placebo","AVAL","SYSBPST | Week 24","descriptive","sd",19.517354767486
+"Placebo","AVAL","SYSBPST | Week 24","descriptive","median",130
+"Placebo","AVAL","SYSBPST | Week 24","descriptive","min",90
+"Placebo","AVAL","SYSBPST | Week 24","descriptive","max",199
+"Placebo","AVAL","SYSBPSU | Week 24","descriptive","N",84
+"Placebo","AVAL","SYSBPSU | Week 24","descriptive","mean",137.190476190476
+"Placebo","AVAL","SYSBPSU | Week 24","descriptive","sd",19.1597445655913
+"Placebo","AVAL","SYSBPSU | Week 24","descriptive","median",134.5
+"Placebo","AVAL","SYSBPSU | Week 24","descriptive","min",100
+"Placebo","AVAL","SYSBPSU | Week 24","descriptive","max",180
+"Placebo","AVAL","TEMP | Week 24","descriptive","N",84
+"Placebo","AVAL","TEMP | Week 24","descriptive","mean",36.6517857142857
+"Placebo","AVAL","TEMP | Week 24","descriptive","sd",0.44119542077353
+"Placebo","AVAL","TEMP | Week 24","descriptive","median",36.67
+"Placebo","AVAL","TEMP | Week 24","descriptive","min",34.72
+"Placebo","AVAL","TEMP | Week 24","descriptive","max",37.56
+"Placebo","AVAL","WEIGHT | Week 24","descriptive","N",84
+"Placebo","AVAL","WEIGHT | Week 24","descriptive","mean",63.2969047619048
+"Placebo","AVAL","WEIGHT | Week 24","descriptive","sd",12.6721381100419
+"Placebo","AVAL","WEIGHT | Week 24","descriptive","median",63.955
+"Placebo","AVAL","WEIGHT | Week 24","descriptive","min",34.02
+"Placebo","AVAL","WEIGHT | Week 24","descriptive","max",86.64

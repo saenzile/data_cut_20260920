@@ -1,0 +1,1450 @@
+"group1","variable","variable_level","context","stat_name","stat"
+"Placebo","OVERALL","Any event","incidence","n_subjects",65
+"Placebo","OVERALL","Any event","incidence","pct_subjects",75.5813953488372
+"Placebo","OVERALL","Any event","incidence","n_events",281
+"Zanomaline Low Dose (54 mg)","OVERALL","Any event","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","OVERALL","Any event","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","OVERALL","Any event","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","OVERALL","Any event","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","OVERALL","Any event","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","OVERALL","Any event","incidence","n_events",0
+"Placebo","SOC","CARDIAC DISORDERS","incidence","n_subjects",12
+"Placebo","SOC","CARDIAC DISORDERS","incidence","pct_subjects",13.953488372093
+"Placebo","SOC","CARDIAC DISORDERS","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","SOC","CARDIAC DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","CARDIAC DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","CARDIAC DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","CARDIAC DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","CARDIAC DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","CARDIAC DISORDERS","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIAL FIBRILLATION [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIAL HYPERTROPHY [REMOTE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK FIRST DEGREE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","ATRIOVENTRICULAR BLOCK SECOND DEGREE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BRADYCARDIA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK LEFT [NONE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","BUNDLE BRANCH BLOCK RIGHT [REMOTE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","CARDIAC FAILURE CONGESTIVE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","n_subjects",2
+"Placebo","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","n_subjects",2
+"Placebo","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","MYOCARDIAL INFARCTION [REMOTE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SINUS ARRHYTHMIA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","n_subjects",2
+"Placebo","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SINUS BRADYCARDIA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","SUPRAVENTRICULAR EXTRASYSTOLES [REMOTE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","TACHYCARDIA [REMOTE]","incidence","n_events",0
+"Placebo","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|CARDIAC DISORDERS","VENTRICULAR HYPERTROPHY [REMOTE]","incidence","n_events",0
+"Placebo","SOC","EAR AND LABYRINTH DISORDERS","incidence","n_subjects",1
+"Placebo","SOC","EAR AND LABYRINTH DISORDERS","incidence","pct_subjects",1.16279069767442
+"Placebo","SOC","EAR AND LABYRINTH DISORDERS","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","SOC","EAR AND LABYRINTH DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","EAR AND LABYRINTH DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","EAR AND LABYRINTH DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","EAR AND LABYRINTH DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","EAR AND LABYRINTH DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","EAR AND LABYRINTH DISORDERS","incidence","n_events",0
+"Placebo","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","n_subjects",1
+"Placebo","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|EAR AND LABYRINTH DISORDERS","EAR PAIN [NONE]","incidence","n_events",0
+"Placebo","SOC","EYE DISORDERS","incidence","n_subjects",2
+"Placebo","SOC","EYE DISORDERS","incidence","pct_subjects",2.32558139534884
+"Placebo","SOC","EYE DISORDERS","incidence","n_events",5
+"Zanomaline Low Dose (54 mg)","SOC","EYE DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","EYE DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","EYE DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","EYE DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","EYE DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","EYE DISORDERS","incidence","n_events",0
+"Placebo","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","CONJUNCTIVITIS [REMOTE]","incidence","n_events",0
+"Placebo","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","n_subjects",1
+"Placebo","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE ALLERGY [NONE]","incidence","n_events",0
+"Placebo","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE PRURITUS [REMOTE]","incidence","n_events",0
+"Placebo","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","n_subjects",1
+"Placebo","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|EYE DISORDERS","EYE SWELLING [NONE]","incidence","n_events",0
+"Placebo","SOC","GASTROINTESTINAL DISORDERS","incidence","n_subjects",17
+"Placebo","SOC","GASTROINTESTINAL DISORDERS","incidence","pct_subjects",19.7674418604651
+"Placebo","SOC","GASTROINTESTINAL DISORDERS","incidence","n_events",26
+"Zanomaline Low Dose (54 mg)","SOC","GASTROINTESTINAL DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","GASTROINTESTINAL DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","GASTROINTESTINAL DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","GASTROINTESTINAL DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","GASTROINTESTINAL DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","GASTROINTESTINAL DISORDERS","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","ABDOMINAL PAIN [REMOTE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","CONSTIPATION [REMOTE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","n_subjects",3
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [NONE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","n_subjects",3
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","n_subjects",3
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DIARRHOEA [REMOTE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","DYSPEPSIA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","FLATULENCE [NONE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","GASTROOESOPHAGEAL REFLUX DISEASE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","GLOSSITIS [NONE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","HIATUS HERNIA [NONE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","n_subjects",3
+"Placebo","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","NAUSEA [REMOTE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","n_subjects",1
+"Placebo","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [NONE]","incidence","n_events",0
+"Placebo","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","n_subjects",2
+"Placebo","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GASTROINTESTINAL DISORDERS","VOMITING [REMOTE]","incidence","n_events",0
+"Placebo","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","n_subjects",21
+"Placebo","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","pct_subjects",24.4186046511628
+"Placebo","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","n_events",46
+"Zanomaline Low Dose (54 mg)","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","n_subjects",4
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE DERMATITIS [PROBABLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","n_subjects",3
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE ERYTHEMA [PROBABLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE INDURATION [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","n_subjects",3
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE IRRITATION [PROBABLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","n_subjects",5
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","pct_subjects",5.81395348837209
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE PRURITUS [PROBABLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE REACTION [PROBABLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","APPLICATION SITE VESICLES [PROBABLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","ASTHENIA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","CHILLS [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","FATIGUE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [NONE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","OEDEMA PERIPHERAL [REMOTE]","incidence","n_events",0
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","n_subjects",2
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS","PYREXIA [NONE]","incidence","n_events",0
+"Placebo","SOC","HEPATOBILIARY DISORDERS","incidence","n_subjects",1
+"Placebo","SOC","HEPATOBILIARY DISORDERS","incidence","pct_subjects",1.16279069767442
+"Placebo","SOC","HEPATOBILIARY DISORDERS","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","SOC","HEPATOBILIARY DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","HEPATOBILIARY DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","HEPATOBILIARY DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","HEPATOBILIARY DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","HEPATOBILIARY DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","HEPATOBILIARY DISORDERS","incidence","n_events",0
+"Placebo","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|HEPATOBILIARY DISORDERS","HYPERBILIRUBINAEMIA [REMOTE]","incidence","n_events",0
+"Placebo","SOC","INFECTIONS AND INFESTATIONS","incidence","n_subjects",16
+"Placebo","SOC","INFECTIONS AND INFESTATIONS","incidence","pct_subjects",18.6046511627907
+"Placebo","SOC","INFECTIONS AND INFESTATIONS","incidence","n_events",35
+"Zanomaline Low Dose (54 mg)","SOC","INFECTIONS AND INFESTATIONS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","INFECTIONS AND INFESTATIONS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","INFECTIONS AND INFESTATIONS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","INFECTIONS AND INFESTATIONS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","INFECTIONS AND INFESTATIONS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","INFECTIONS AND INFESTATIONS","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","BRONCHITIS [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","CERVICITIS [REMOTE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","CYSTITIS [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","n_subjects",2
+"Placebo","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","EAR INFECTION [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","GASTROENTERITIS VIRAL [REMOTE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","INFLUENZA [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","LOCALISED INFECTION [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","n_subjects",2
+"Placebo","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","NASOPHARYNGITIS [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","n_subjects",4
+"Placebo","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","n_subjects",3
+"Placebo","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","n_events",5
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","UPPER RESPIRATORY TRACT INFECTION [REMOTE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [NONE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","URINARY TRACT INFECTION [REMOTE]","incidence","n_events",0
+"Placebo","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INFECTIONS AND INFESTATIONS","VAGINAL MYCOSIS [REMOTE]","incidence","n_events",0
+"Placebo","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","n_subjects",4
+"Placebo","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","pct_subjects",4.65116279069767
+"Placebo","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","n_events",9
+"Zanomaline Low Dose (54 mg)","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","INJURY, POISONING AND PROCEDURAL COMPLICATIONS","incidence","n_events",0
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","n_subjects",1
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","CONTUSION [NONE]","incidence","n_events",0
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","n_subjects",2
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","EXCORIATION [NONE]","incidence","n_events",0
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","n_subjects",1
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","FALL [NONE]","incidence","n_events",0
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","n_subjects",1
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","HIP FRACTURE [NONE]","incidence","n_events",0
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","n_subjects",1
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INJURY, POISONING AND PROCEDURAL COMPLICATIONS","SKIN LACERATION [NONE]","incidence","n_events",0
+"Placebo","SOC","INVESTIGATIONS","incidence","n_subjects",10
+"Placebo","SOC","INVESTIGATIONS","incidence","pct_subjects",11.6279069767442
+"Placebo","SOC","INVESTIGATIONS","incidence","n_events",19
+"Zanomaline Low Dose (54 mg)","SOC","INVESTIGATIONS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","INVESTIGATIONS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","INVESTIGATIONS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","INVESTIGATIONS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","INVESTIGATIONS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","INVESTIGATIONS","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD ALKALINE PHOSPHATASE INCREASED [NONE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD CREATINE PHOSPHOKINASE INCREASED [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","BLOOD URINE PRESENT [NONE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","CYSTOSCOPY [NONE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","n_subjects",3
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM ST SEGMENT DEPRESSION [REMOTE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE AMPLITUDE DECREASED [REMOTE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","n_subjects",2
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","ELECTROCARDIOGRAM T WAVE INVERSION [REMOTE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","HEART RATE INCREASED [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|INVESTIGATIONS","HEART RATE IRREGULAR [POSSIBLE]","incidence","n_events",0
+"Placebo","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","n_subjects",6
+"Placebo","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","pct_subjects",6.97674418604651
+"Placebo","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","METABOLISM AND NUTRITION DISORDERS","incidence","n_events",0
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DECREASED APPETITE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","n_subjects",1
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DEHYDRATION [NONE]","incidence","n_events",0
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","n_subjects",1
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","DIABETES MELLITUS [NONE]","incidence","n_events",0
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","FOOD CRAVING [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","HYPONATRAEMIA [REMOTE]","incidence","n_events",0
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|METABOLISM AND NUTRITION DISORDERS","INCREASED APPETITE [POSSIBLE]","incidence","n_events",0
+"Placebo","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","n_subjects",4
+"Placebo","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","pct_subjects",4.65116279069767
+"Placebo","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","n_events",6
+"Zanomaline Low Dose (54 mg)","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","incidence","n_events",0
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","n_subjects",1
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","ARTHRALGIA [NONE]","incidence","n_events",0
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","n_subjects",1
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","BACK PAIN [NONE]","incidence","n_events",0
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","PAIN IN EXTREMITY [REMOTE]","incidence","n_events",0
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS","SHOULDER PAIN [POSSIBLE]","incidence","n_events",0
+"Placebo","SOC","NERVOUS SYSTEM DISORDERS","incidence","n_subjects",8
+"Placebo","SOC","NERVOUS SYSTEM DISORDERS","incidence","pct_subjects",9.30232558139535
+"Placebo","SOC","NERVOUS SYSTEM DISORDERS","incidence","n_events",11
+"Zanomaline Low Dose (54 mg)","SOC","NERVOUS SYSTEM DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","NERVOUS SYSTEM DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","NERVOUS SYSTEM DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","NERVOUS SYSTEM DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","NERVOUS SYSTEM DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","NERVOUS SYSTEM DISORDERS","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","n_subjects",2
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","DIZZINESS [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","n_subjects",2
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [NONE]","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","HEADACHE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","n_subjects",1
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","PARKINSON'S DISEASE [NONE]","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","PSYCHOMOTOR HYPERACTIVITY [REMOTE]","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","n_subjects",1
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [NONE]","incidence","n_events",0
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|NERVOUS SYSTEM DISORDERS","SOMNOLENCE [POSSIBLE]","incidence","n_events",0
+"Placebo","SOC","PSYCHIATRIC DISORDERS","incidence","n_subjects",10
+"Placebo","SOC","PSYCHIATRIC DISORDERS","incidence","pct_subjects",11.6279069767442
+"Placebo","SOC","PSYCHIATRIC DISORDERS","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","SOC","PSYCHIATRIC DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","PSYCHIATRIC DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","PSYCHIATRIC DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","PSYCHIATRIC DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","PSYCHIATRIC DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","PSYCHIATRIC DISORDERS","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","n_subjects",2
+"Placebo","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","AGITATION [REMOTE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","COMPLETED SUICIDE [NONE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","CONFUSIONAL STATE [REMOTE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","DELUSION [REMOTE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","DISORIENTATION [REMOTE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [NONE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","INSOMNIA [REMOTE]","incidence","n_events",0
+"Placebo","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|PSYCHIATRIC DISORDERS","IRRITABILITY [POSSIBLE]","incidence","n_events",0
+"Placebo","SOC","RENAL AND URINARY DISORDERS","incidence","n_subjects",4
+"Placebo","SOC","RENAL AND URINARY DISORDERS","incidence","pct_subjects",4.65116279069767
+"Placebo","SOC","RENAL AND URINARY DISORDERS","incidence","n_events",5
+"Zanomaline Low Dose (54 mg)","SOC","RENAL AND URINARY DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","RENAL AND URINARY DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","RENAL AND URINARY DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","RENAL AND URINARY DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","RENAL AND URINARY DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","RENAL AND URINARY DISORDERS","incidence","n_events",0
+"Placebo","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","DYSURIA [REMOTE]","incidence","n_events",0
+"Placebo","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","n_subjects",1
+"Placebo","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","MICTURITION URGENCY [NONE]","incidence","n_events",0
+"Placebo","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","n_subjects",1
+"Placebo","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","NEPHROLITHIASIS [NONE]","incidence","n_events",0
+"Placebo","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","n_subjects",1
+"Placebo","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RENAL AND URINARY DISORDERS","POLLAKIURIA [NONE]","incidence","n_events",0
+"Placebo","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","n_subjects",2
+"Placebo","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","pct_subjects",2.32558139534884
+"Placebo","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","REPRODUCTIVE SYSTEM AND BREAST DISORDERS","incidence","n_events",0
+"Placebo","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","n_subjects",1
+"Placebo","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","BENIGN PROSTATIC HYPERPLASIA [NONE]","incidence","n_events",0
+"Placebo","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|REPRODUCTIVE SYSTEM AND BREAST DISORDERS","PELVIC PAIN [POSSIBLE]","incidence","n_events",0
+"Placebo","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","n_subjects",8
+"Placebo","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","pct_subjects",9.30232558139535
+"Placebo","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","n_events",12
+"Zanomaline Low Dose (54 mg)","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","COUGH [REMOTE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","DYSPNOEA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","EMPHYSEMA [PROBABLE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","HAEMOPTYSIS [NONE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [NONE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","n_subjects",2
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","NASAL CONGESTION [REMOTE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","POSTNASAL DRIP [NONE]","incidence","n_events",0
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","n_subjects",1
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS","RALES [NONE]","incidence","n_events",0
+"Placebo","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","n_subjects",20
+"Placebo","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","pct_subjects",23.2558139534884
+"Placebo","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","n_events",45
+"Zanomaline Low Dose (54 mg)","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","SKIN AND SUBCUTANEOUS TISSUE DISORDERS","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ALOPECIA [REMOTE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","COLD SWEAT [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","DRUG ERUPTION [NONE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","n_subjects",2
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","n_subjects",7
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","pct_subjects",8.13953488372093
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","n_events",8
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","ERYTHEMA [PROBABLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","HYPERHIDROSIS [REMOTE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","n_subjects",4
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","pct_subjects",4.65116279069767
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","n_events",6
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","n_subjects",3
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","pct_subjects",3.48837209302326
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","n_events",4
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [PROBABLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","PRURITUS [REMOTE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [NONE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","n_subjects",2
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","pct_subjects",2.32558139534884
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","n_events",3
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [PROBABLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","RASH [REMOTE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [NONE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN IRRITATION [PROBABLE]","incidence","n_events",0
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","n_subjects",1
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SKIN AND SUBCUTANEOUS TISSUE DISORDERS","SKIN ULCER [PROBABLE]","incidence","n_events",0
+"Placebo","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","n_subjects",2
+"Placebo","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","pct_subjects",2.32558139534884
+"Placebo","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","SURGICAL AND MEDICAL PROCEDURES","incidence","n_events",0
+"Placebo","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","n_subjects",1
+"Placebo","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","CATARACT OPERATION [NONE]","incidence","n_events",0
+"Placebo","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","n_subjects",1
+"Placebo","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|SURGICAL AND MEDICAL PROCEDURES","EYE LASER SURGERY [NONE]","incidence","n_events",0
+"Placebo","SOC","VASCULAR DISORDERS","incidence","n_subjects",3
+"Placebo","SOC","VASCULAR DISORDERS","incidence","pct_subjects",3.48837209302326
+"Placebo","SOC","VASCULAR DISORDERS","incidence","n_events",7
+"Zanomaline Low Dose (54 mg)","SOC","VASCULAR DISORDERS","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","SOC","VASCULAR DISORDERS","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","SOC","VASCULAR DISORDERS","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","SOC","VASCULAR DISORDERS","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","SOC","VASCULAR DISORDERS","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","SOC","VASCULAR DISORDERS","incidence","n_events",0
+"Placebo","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPERTENSION [REMOTE]","incidence","n_events",0
+"Placebo","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","n_events",1
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [POSSIBLE]","incidence","n_events",0
+"Placebo","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","n_subjects",1
+"Placebo","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","HYPOTENSION [REMOTE]","incidence","n_events",0
+"Placebo","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","n_subjects",1
+"Placebo","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","pct_subjects",1.16279069767442
+"Placebo","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","n_events",2
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline Low Dose (54 mg)","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","n_events",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","n_subjects",0
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","pct_subjects",
+"Zanomaline High Dose (81 mg)","PT|VASCULAR DISORDERS","ORTHOSTATIC HYPOTENSION [POSSIBLE]","incidence","n_events",0
